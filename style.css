@@ -1,0 +1,111 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Inter', sans-serif;
+}
+html{
+  color: #FFFFFF;
+  font-size: 62.5%;
+  background-color: #1E1E1E;;
+}
+p{
+  margin: 2rem 2rem;
+  font-size:1.55rem ;
+  margin-left: 5rem;
+}
+h1{
+  /* position: absolute; */
+  width: 37.8rem;
+  height: 2.9rem;
+  margin-left: 8.8rem;
+  margin-top: 4.5rem;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 1.5rem;
+  line-height: 29px;
+
+
+}
+h2{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  margin-top: 3rem;
+  margin-left: 9rem;
+  border: 1px solid #FFFFFF;
+  width: fit-content;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  margin-bottom: 3rem;
+  padding-top: .2rem;
+  padding-bottom: .2rem;
+}
+.separate{
+  border-collapse: collapse;
+  margin-left: 9rem;
+  border-radius: 10px;
+
+}
+
+.first tr,td{
+  border: 1px solid #FFFFFF;
+  border-radius: 10px;
+  
+}
+td{
+  
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  
+  color: #FFFFFF;
+ 
+}
+.bstyle{
+  padding-left: 3.5rem;
+  padding-right: 3.5rem;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  margin-left:9rem ;
+  margin-top: 3rem;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+footer{
+  display: flex;
+  width: 100%;
+  margin-top: 2rem;
+}
+label{
+  margin-left: 9rem;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+}
+
+input{
+  width: 32%;
+  padding-left: 80px;
+  padding-right: 90px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left: 9rem;
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+  background-color: #1E1E1E;
+}
